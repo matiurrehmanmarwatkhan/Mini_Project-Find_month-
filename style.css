@@ -10,14 +10,12 @@ body{
     flex-direction: column;
     justify-content: center;
 
-    /* align-self: center; */
 }
 
 .main{
     width: 20%;
     padding: 10px;
     height: 40vh;
-    /* border: 1px solid black; */
     display: flex;
     background-color: rgba(138,67,67,0.75);
     justify-content: center;
@@ -55,16 +53,6 @@ body{
     height: 43px;
     background-color: darkred;
 }
-
-
-/* @media screen (min-width:599px) {
-    .main{
-        width: 100%;
-    }
-} */
-
-
-
 
 
 
